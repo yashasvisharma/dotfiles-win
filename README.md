@@ -13,25 +13,6 @@ $ sudo ~/.dotfiles/install.sh
 
 To keep up to date, you can just `pull` this repo, and re-run `install.sh`.
 
-### screenshots
-<p align="center">
-  <img src="screenshots/screenfetch.png" />
-</p>
-<p align="center">
-  <img src="screenshots/fun.png" />
-</p>
-<p align="center">
-  <img src="screenshots/midia.png" />
-</p>
-<p align="center">
-  <img src="screenshots/working.png" />
-</p>
-<p align="center">
-  <img src="screenshots/lol.gif" />
-</p>
-
-> **Windows Wallpaper for 4k resolution:** [./wallpaper.jpg](https://rawgit.com/jieverson/dotfiles-win/master/wallpaper.jpg)
-
 ### About My Terminal Emulator
 
 As you can see at screenshots, I'm not using Windows default console emulator.
