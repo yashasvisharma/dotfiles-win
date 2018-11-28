@@ -107,9 +107,7 @@ module.exports = {
   //   `@company/project`
   //   `project#1.0.1`
   plugins: [
-    //'hyperpower',
-    //'hyperemoji',
-    'hyper-dark-scrollbar'
+    'hyperpanic'
   ],
 
   // in development, you can create a directory under
